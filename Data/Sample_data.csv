@@ -1,0 +1,501 @@
+tweet_id,text,author_id
+1,@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-125],user_1
+2,@AppleSupport Need help recovering my iCloud account credentials. [ref-854],user_2
+3,@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-704],user_3
+4,@AppleSupport Need help recovering my iCloud account credentials. [ref-338],user_4
+5,@AppleSupport Need help recovering my iCloud account credentials. [ref-833],user_5
+6,@AppleSupport Need help recovering my iCloud account credentials. [ref-559],user_6
+7,@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-877],user_7
+8,@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-384],user_8
+9,@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-204],user_9
+10,@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-718],user_10
+11,@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-649],user_11
+12,@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-665],user_12
+13,@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-691],user_13
+14,@AppleSupport Need help recovering my iCloud account credentials. [ref-891],user_14
+15,@AppleSupport Need help recovering my iCloud account credentials. [ref-987],user_15
+16,@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-266],user_16
+17,@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-818],user_17
+18,@AppleSupport Need help recovering my iCloud account credentials. [ref-646],user_18
+19,@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-376],user_19
+20,@AppleSupport Need help recovering my iCloud account credentials. [ref-801],user_20
+21,@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-334],user_21
+22,@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-374],user_22
+23,@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-317],user_23
+24,@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-246],user_24
+25,@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-864],user_25
+26,@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-470],user_26
+27,@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-193],user_27
+28,@AppleSupport Need help recovering my iCloud account credentials. [ref-742],user_28
+29,@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-494],user_29
+30,@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-666],user_30
+31,@AppleSupport Charged twice for Apple Music subscription this month. [ref-798],user_31
+32,@AppleSupport Why was my card billed $9.99 without authorization? [ref-214],user_32
+33,@AppleSupport Charged twice for Apple Music subscription this month. [ref-839],user_33
+34,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-619],user_34
+35,@AppleSupport Why was my card billed $9.99 without authorization? [ref-961],user_35
+36,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-482],user_36
+37,@AppleSupport Charged twice for Apple Music subscription this month. [ref-713],user_37
+38,@AppleSupport Why was my card billed $9.99 without authorization? [ref-999],user_38
+39,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-159],user_39
+40,@AppleSupport Charged twice for Apple Music subscription this month. [ref-187],user_40
+41,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-231],user_41
+42,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-371],user_42
+43,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-652],user_43
+44,@AppleSupport Why was my card billed $9.99 without authorization? [ref-508],user_44
+45,@AppleSupport Need receipt and billing clarification for Apple Care charge. [ref-629],user_45
+46,@AppleSupport Charged twice for Apple Music subscription this month. [ref-446],user_46
+47,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-107],user_47
+48,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-169],user_48
+49,@AppleSupport Charged twice for Apple Music subscription this month. [ref-626],user_49
+50,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-652],user_50
+51,@AppleSupport Need receipt and billing clarification for Apple Care charge. [ref-348],user_51
+52,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-196],user_52
+53,@AppleSupport Need receipt and billing clarification for Apple Care charge. [ref-520],user_53
+54,@AppleSupport Charged twice for Apple Music subscription this month. [ref-162],user_54
+55,@AppleSupport Charged twice for Apple Music subscription this month. [ref-354],user_55
+56,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-532],user_56
+57,@AppleSupport Charged twice for Apple Music subscription this month. [ref-553],user_57
+58,@AppleSupport Charged twice for Apple Music subscription this month. [ref-151],user_58
+59,@AppleSupport Charged twice for Apple Music subscription this month. [ref-195],user_59
+60,@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-516],user_60
+61,@AppleSupport Device liquid damaged after falling into water. [ref-160],user_61
+62,@AppleSupport Device liquid damaged after falling into water. [ref-371],user_62
+63,@AppleSupport Lightning port loose and pins seem bent inside. [ref-533],user_63
+64,@AppleSupport Device liquid damaged after falling into water. [ref-258],user_64
+65,@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-693],user_65
+66,@AppleSupport Lightning port loose and pins seem bent inside. [ref-158],user_66
+67,@AppleSupport Back glass cracked and camera lens is scratched. [ref-158],user_67
+68,@AppleSupport Back glass cracked and camera lens is scratched. [ref-170],user_68
+69,@AppleSupport Back glass cracked and camera lens is scratched. [ref-513],user_69
+70,@AppleSupport Back glass cracked and camera lens is scratched. [ref-692],user_70
+71,@AppleSupport Device liquid damaged after falling into water. [ref-773],user_71
+72,@AppleSupport Lightning port loose and pins seem bent inside. [ref-309],user_72
+73,@AppleSupport Lightning port loose and pins seem bent inside. [ref-505],user_73
+74,@AppleSupport Device liquid damaged after falling into water. [ref-423],user_74
+75,@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-569],user_75
+76,@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-175],user_76
+77,@AppleSupport Back glass cracked and camera lens is scratched. [ref-457],user_77
+78,@AppleSupport Lightning port loose and pins seem bent inside. [ref-391],user_78
+79,@AppleSupport Lightning port loose and pins seem bent inside. [ref-726],user_79
+80,@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-783],user_80
+81,@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-999],user_81
+82,@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-860],user_82
+83,@AppleSupport Back glass cracked and camera lens is scratched. [ref-834],user_83
+84,@AppleSupport Lightning port loose and pins seem bent inside. [ref-617],user_84
+85,@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-194],user_85
+86,@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-103],user_86
+87,@AppleSupport Lightning port loose and pins seem bent inside. [ref-265],user_87
+88,@AppleSupport Device liquid damaged after falling into water. [ref-674],user_88
+89,@AppleSupport Back glass cracked and camera lens is scratched. [ref-658],user_89
+90,@AppleSupport Back glass cracked and camera lens is scratched. [ref-540],user_90
+91,@AppleSupport Battery health dropped to 78% within five months. [ref-466],user_91
+92,@AppleSupport Battery health dropped to 78% within five months. [ref-462],user_92
+93,@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-735],user_93
+94,@AppleSupport Phone battery draining 20% per hour on standby. [ref-985],user_94
+95,@AppleSupport Phone battery draining 20% per hour on standby. [ref-522],user_95
+96,@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-901],user_96
+97,@AppleSupport Phone battery draining 20% per hour on standby. [ref-373],user_97
+98,@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-993],user_98
+99,@AppleSupport Phone battery draining 20% per hour on standby. [ref-936],user_99
+100,@AppleSupport Phone battery draining 20% per hour on standby. [ref-328],user_100
+101,@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-385],user_101
+102,@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-459],user_102
+103,@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-128],user_103
+104,@AppleSupport Phone battery draining 20% per hour on standby. [ref-694],user_104
+105,@AppleSupport Battery health dropped to 78% within five months. [ref-710],user_105
+106,@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-546],user_106
+107,@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-690],user_107
+108,@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-101],user_108
+109,@AppleSupport Phone battery draining 20% per hour on standby. [ref-472],user_109
+110,@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-738],user_110
+111,@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-619],user_111
+112,@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-813],user_112
+113,@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-780],user_113
+114,@AppleSupport Phone battery draining 20% per hour on standby. [ref-730],user_114
+115,@AppleSupport Battery health dropped to 78% within five months. [ref-411],user_115
+116,@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-576],user_116
+117,@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-912],user_117
+118,@AppleSupport Phone battery draining 20% per hour on standby. [ref-774],user_118
+119,@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-195],user_119
+120,@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-330],user_120
+121,@AppleSupport iOS update froze my screen on the Apple logo. [ref-350],user_121
+122,@AppleSupport iOS update froze my screen on the Apple logo. [ref-566],user_122
+123,@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-835],user_123
+124,@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-251],user_124
+125,@AppleSupport iOS update froze my screen on the Apple logo. [ref-897],user_125
+126,@AppleSupport Control Center gestures unresponsive after waking device. [ref-151],user_126
+127,@AppleSupport iOS update froze my screen on the Apple logo. [ref-567],user_127
+128,@AppleSupport Camera app crashing immediately upon launch. [ref-873],user_128
+129,@AppleSupport Control Center gestures unresponsive after waking device. [ref-950],user_129
+130,@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-861],user_130
+131,@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-960],user_131
+132,@AppleSupport Control Center gestures unresponsive after waking device. [ref-741],user_132
+133,@AppleSupport Camera app crashing immediately upon launch. [ref-340],user_133
+134,@AppleSupport iOS update froze my screen on the Apple logo. [ref-241],user_134
+135,@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-823],user_135
+136,@AppleSupport Camera app crashing immediately upon launch. [ref-655],user_136
+137,@AppleSupport Control Center gestures unresponsive after waking device. [ref-498],user_137
+138,@AppleSupport iOS update froze my screen on the Apple logo. [ref-977],user_138
+139,@AppleSupport Control Center gestures unresponsive after waking device. [ref-106],user_139
+140,@AppleSupport Control Center gestures unresponsive after waking device. [ref-973],user_140
+141,@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-599],user_141
+142,@AppleSupport iOS update froze my screen on the Apple logo. [ref-498],user_142
+143,@AppleSupport Control Center gestures unresponsive after waking device. [ref-841],user_143
+144,@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-737],user_144
+145,@AppleSupport iOS update froze my screen on the Apple logo. [ref-185],user_145
+146,@AppleSupport Control Center gestures unresponsive after waking device. [ref-286],user_146
+147,@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-565],user_147
+148,@AppleSupport Control Center gestures unresponsive after waking device. [ref-384],user_148
+149,@AppleSupport Camera app crashing immediately upon launch. [ref-954],user_149
+150,@AppleSupport iOS update froze my screen on the Apple logo. [ref-458],user_150
+151,@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-872],user_151
+152,@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-736],user_152
+153,@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-677],user_153
+154,@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-885],user_154
+155,@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-896],user_155
+156,@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-692],user_156
+157,@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-506],user_157
+158,@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-204],user_158
+159,@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-915],user_159
+160,@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-645],user_160
+161,@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-112],user_161
+162,@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-543],user_162
+163,@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-824],user_163
+164,@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-730],user_164
+165,@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-576],user_165
+166,@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-430],user_166
+167,@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-385],user_167
+168,@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-683],user_168
+169,@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-606],user_169
+170,@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-463],user_170
+171,@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-669],user_171
+172,@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-347],user_172
+173,@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-807],user_173
+174,@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-911],user_174
+175,@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-808],user_175
+176,@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-584],user_176
+177,@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-460],user_177
+178,@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-336],user_178
+179,@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-860],user_179
+180,@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-296],user_180
+181,"@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-202]",user_181
+182,"@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-283]",user_182
+183,@AppleSupport Are trade-in values higher in September? [ref-380],user_183
+184,"@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-814]",user_184
+185,@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-205],user_185
+186,@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-590],user_186
+187,@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-358],user_187
+188,@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-510],user_188
+189,@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-255],user_189
+190,"@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-187]",user_190
+191,@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-720],user_191
+192,@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-561],user_192
+193,@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-412],user_193
+194,@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-881],user_194
+195,@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-260],user_195
+196,@AppleSupport Are trade-in values higher in September? [ref-102],user_196
+197,@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-398],user_197
+198,"@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-819]",user_198
+199,@AppleSupport Are trade-in values higher in September? [ref-370],user_199
+200,@AppleSupport Are trade-in values higher in September? [ref-535],user_200
+201,@AppleSupport Random support inquiry test record #201,user_201
+202,@AppleSupport Random support inquiry test record #202,user_202
+203,@AppleSupport Random support inquiry test record #203,user_203
+204,@AppleSupport Random support inquiry test record #204,user_204
+205,@AppleSupport Random support inquiry test record #205,user_205
+206,@AppleSupport Random support inquiry test record #206,user_206
+207,@AppleSupport Random support inquiry test record #207,user_207
+208,@AppleSupport Random support inquiry test record #208,user_208
+209,@AppleSupport Random support inquiry test record #209,user_209
+210,@AppleSupport Random support inquiry test record #210,user_210
+211,@AppleSupport Random support inquiry test record #211,user_211
+212,@AppleSupport Random support inquiry test record #212,user_212
+213,@AppleSupport Random support inquiry test record #213,user_213
+214,@AppleSupport Random support inquiry test record #214,user_214
+215,@AppleSupport Random support inquiry test record #215,user_215
+216,@AppleSupport Random support inquiry test record #216,user_216
+217,@AppleSupport Random support inquiry test record #217,user_217
+218,@AppleSupport Random support inquiry test record #218,user_218
+219,@AppleSupport Random support inquiry test record #219,user_219
+220,@AppleSupport Random support inquiry test record #220,user_220
+221,@AppleSupport Random support inquiry test record #221,user_221
+222,@AppleSupport Random support inquiry test record #222,user_222
+223,@AppleSupport Random support inquiry test record #223,user_223
+224,@AppleSupport Random support inquiry test record #224,user_224
+225,@AppleSupport Random support inquiry test record #225,user_225
+226,@AppleSupport Random support inquiry test record #226,user_226
+227,@AppleSupport Random support inquiry test record #227,user_227
+228,@AppleSupport Random support inquiry test record #228,user_228
+229,@AppleSupport Random support inquiry test record #229,user_229
+230,@AppleSupport Random support inquiry test record #230,user_230
+231,@AppleSupport Random support inquiry test record #231,user_231
+232,@AppleSupport Random support inquiry test record #232,user_232
+233,@AppleSupport Random support inquiry test record #233,user_233
+234,@AppleSupport Random support inquiry test record #234,user_234
+235,@AppleSupport Random support inquiry test record #235,user_235
+236,@AppleSupport Random support inquiry test record #236,user_236
+237,@AppleSupport Random support inquiry test record #237,user_237
+238,@AppleSupport Random support inquiry test record #238,user_238
+239,@AppleSupport Random support inquiry test record #239,user_239
+240,@AppleSupport Random support inquiry test record #240,user_240
+241,@AppleSupport Random support inquiry test record #241,user_241
+242,@AppleSupport Random support inquiry test record #242,user_242
+243,@AppleSupport Random support inquiry test record #243,user_243
+244,@AppleSupport Random support inquiry test record #244,user_244
+245,@AppleSupport Random support inquiry test record #245,user_245
+246,@AppleSupport Random support inquiry test record #246,user_246
+247,@AppleSupport Random support inquiry test record #247,user_247
+248,@AppleSupport Random support inquiry test record #248,user_248
+249,@AppleSupport Random support inquiry test record #249,user_249
+250,@AppleSupport Random support inquiry test record #250,user_250
+251,@AppleSupport Random support inquiry test record #251,user_251
+252,@AppleSupport Random support inquiry test record #252,user_252
+253,@AppleSupport Random support inquiry test record #253,user_253
+254,@AppleSupport Random support inquiry test record #254,user_254
+255,@AppleSupport Random support inquiry test record #255,user_255
+256,@AppleSupport Random support inquiry test record #256,user_256
+257,@AppleSupport Random support inquiry test record #257,user_257
+258,@AppleSupport Random support inquiry test record #258,user_258
+259,@AppleSupport Random support inquiry test record #259,user_259
+260,@AppleSupport Random support inquiry test record #260,user_260
+261,@AppleSupport Random support inquiry test record #261,user_261
+262,@AppleSupport Random support inquiry test record #262,user_262
+263,@AppleSupport Random support inquiry test record #263,user_263
+264,@AppleSupport Random support inquiry test record #264,user_264
+265,@AppleSupport Random support inquiry test record #265,user_265
+266,@AppleSupport Random support inquiry test record #266,user_266
+267,@AppleSupport Random support inquiry test record #267,user_267
+268,@AppleSupport Random support inquiry test record #268,user_268
+269,@AppleSupport Random support inquiry test record #269,user_269
+270,@AppleSupport Random support inquiry test record #270,user_270
+271,@AppleSupport Random support inquiry test record #271,user_271
+272,@AppleSupport Random support inquiry test record #272,user_272
+273,@AppleSupport Random support inquiry test record #273,user_273
+274,@AppleSupport Random support inquiry test record #274,user_274
+275,@AppleSupport Random support inquiry test record #275,user_275
+276,@AppleSupport Random support inquiry test record #276,user_276
+277,@AppleSupport Random support inquiry test record #277,user_277
+278,@AppleSupport Random support inquiry test record #278,user_278
+279,@AppleSupport Random support inquiry test record #279,user_279
+280,@AppleSupport Random support inquiry test record #280,user_280
+281,@AppleSupport Random support inquiry test record #281,user_281
+282,@AppleSupport Random support inquiry test record #282,user_282
+283,@AppleSupport Random support inquiry test record #283,user_283
+284,@AppleSupport Random support inquiry test record #284,user_284
+285,@AppleSupport Random support inquiry test record #285,user_285
+286,@AppleSupport Random support inquiry test record #286,user_286
+287,@AppleSupport Random support inquiry test record #287,user_287
+288,@AppleSupport Random support inquiry test record #288,user_288
+289,@AppleSupport Random support inquiry test record #289,user_289
+290,@AppleSupport Random support inquiry test record #290,user_290
+291,@AppleSupport Random support inquiry test record #291,user_291
+292,@AppleSupport Random support inquiry test record #292,user_292
+293,@AppleSupport Random support inquiry test record #293,user_293
+294,@AppleSupport Random support inquiry test record #294,user_294
+295,@AppleSupport Random support inquiry test record #295,user_295
+296,@AppleSupport Random support inquiry test record #296,user_296
+297,@AppleSupport Random support inquiry test record #297,user_297
+298,@AppleSupport Random support inquiry test record #298,user_298
+299,@AppleSupport Random support inquiry test record #299,user_299
+300,@AppleSupport Random support inquiry test record #300,user_300
+301,@AppleSupport Random support inquiry test record #301,user_301
+302,@AppleSupport Random support inquiry test record #302,user_302
+303,@AppleSupport Random support inquiry test record #303,user_303
+304,@AppleSupport Random support inquiry test record #304,user_304
+305,@AppleSupport Random support inquiry test record #305,user_305
+306,@AppleSupport Random support inquiry test record #306,user_306
+307,@AppleSupport Random support inquiry test record #307,user_307
+308,@AppleSupport Random support inquiry test record #308,user_308
+309,@AppleSupport Random support inquiry test record #309,user_309
+310,@AppleSupport Random support inquiry test record #310,user_310
+311,@AppleSupport Random support inquiry test record #311,user_311
+312,@AppleSupport Random support inquiry test record #312,user_312
+313,@AppleSupport Random support inquiry test record #313,user_313
+314,@AppleSupport Random support inquiry test record #314,user_314
+315,@AppleSupport Random support inquiry test record #315,user_315
+316,@AppleSupport Random support inquiry test record #316,user_316
+317,@AppleSupport Random support inquiry test record #317,user_317
+318,@AppleSupport Random support inquiry test record #318,user_318
+319,@AppleSupport Random support inquiry test record #319,user_319
+320,@AppleSupport Random support inquiry test record #320,user_320
+321,@AppleSupport Random support inquiry test record #321,user_321
+322,@AppleSupport Random support inquiry test record #322,user_322
+323,@AppleSupport Random support inquiry test record #323,user_323
+324,@AppleSupport Random support inquiry test record #324,user_324
+325,@AppleSupport Random support inquiry test record #325,user_325
+326,@AppleSupport Random support inquiry test record #326,user_326
+327,@AppleSupport Random support inquiry test record #327,user_327
+328,@AppleSupport Random support inquiry test record #328,user_328
+329,@AppleSupport Random support inquiry test record #329,user_329
+330,@AppleSupport Random support inquiry test record #330,user_330
+331,@AppleSupport Random support inquiry test record #331,user_331
+332,@AppleSupport Random support inquiry test record #332,user_332
+333,@AppleSupport Random support inquiry test record #333,user_333
+334,@AppleSupport Random support inquiry test record #334,user_334
+335,@AppleSupport Random support inquiry test record #335,user_335
+336,@AppleSupport Random support inquiry test record #336,user_336
+337,@AppleSupport Random support inquiry test record #337,user_337
+338,@AppleSupport Random support inquiry test record #338,user_338
+339,@AppleSupport Random support inquiry test record #339,user_339
+340,@AppleSupport Random support inquiry test record #340,user_340
+341,@AppleSupport Random support inquiry test record #341,user_341
+342,@AppleSupport Random support inquiry test record #342,user_342
+343,@AppleSupport Random support inquiry test record #343,user_343
+344,@AppleSupport Random support inquiry test record #344,user_344
+345,@AppleSupport Random support inquiry test record #345,user_345
+346,@AppleSupport Random support inquiry test record #346,user_346
+347,@AppleSupport Random support inquiry test record #347,user_347
+348,@AppleSupport Random support inquiry test record #348,user_348
+349,@AppleSupport Random support inquiry test record #349,user_349
+350,@AppleSupport Random support inquiry test record #350,user_350
+351,@AppleSupport Random support inquiry test record #351,user_351
+352,@AppleSupport Random support inquiry test record #352,user_352
+353,@AppleSupport Random support inquiry test record #353,user_353
+354,@AppleSupport Random support inquiry test record #354,user_354
+355,@AppleSupport Random support inquiry test record #355,user_355
+356,@AppleSupport Random support inquiry test record #356,user_356
+357,@AppleSupport Random support inquiry test record #357,user_357
+358,@AppleSupport Random support inquiry test record #358,user_358
+359,@AppleSupport Random support inquiry test record #359,user_359
+360,@AppleSupport Random support inquiry test record #360,user_360
+361,@AppleSupport Random support inquiry test record #361,user_361
+362,@AppleSupport Random support inquiry test record #362,user_362
+363,@AppleSupport Random support inquiry test record #363,user_363
+364,@AppleSupport Random support inquiry test record #364,user_364
+365,@AppleSupport Random support inquiry test record #365,user_365
+366,@AppleSupport Random support inquiry test record #366,user_366
+367,@AppleSupport Random support inquiry test record #367,user_367
+368,@AppleSupport Random support inquiry test record #368,user_368
+369,@AppleSupport Random support inquiry test record #369,user_369
+370,@AppleSupport Random support inquiry test record #370,user_370
+371,@AppleSupport Random support inquiry test record #371,user_371
+372,@AppleSupport Random support inquiry test record #372,user_372
+373,@AppleSupport Random support inquiry test record #373,user_373
+374,@AppleSupport Random support inquiry test record #374,user_374
+375,@AppleSupport Random support inquiry test record #375,user_375
+376,@AppleSupport Random support inquiry test record #376,user_376
+377,@AppleSupport Random support inquiry test record #377,user_377
+378,@AppleSupport Random support inquiry test record #378,user_378
+379,@AppleSupport Random support inquiry test record #379,user_379
+380,@AppleSupport Random support inquiry test record #380,user_380
+381,@AppleSupport Random support inquiry test record #381,user_381
+382,@AppleSupport Random support inquiry test record #382,user_382
+383,@AppleSupport Random support inquiry test record #383,user_383
+384,@AppleSupport Random support inquiry test record #384,user_384
+385,@AppleSupport Random support inquiry test record #385,user_385
+386,@AppleSupport Random support inquiry test record #386,user_386
+387,@AppleSupport Random support inquiry test record #387,user_387
+388,@AppleSupport Random support inquiry test record #388,user_388
+389,@AppleSupport Random support inquiry test record #389,user_389
+390,@AppleSupport Random support inquiry test record #390,user_390
+391,@AppleSupport Random support inquiry test record #391,user_391
+392,@AppleSupport Random support inquiry test record #392,user_392
+393,@AppleSupport Random support inquiry test record #393,user_393
+394,@AppleSupport Random support inquiry test record #394,user_394
+395,@AppleSupport Random support inquiry test record #395,user_395
+396,@AppleSupport Random support inquiry test record #396,user_396
+397,@AppleSupport Random support inquiry test record #397,user_397
+398,@AppleSupport Random support inquiry test record #398,user_398
+399,@AppleSupport Random support inquiry test record #399,user_399
+400,@AppleSupport Random support inquiry test record #400,user_400
+401,@AppleSupport Random support inquiry test record #401,user_401
+402,@AppleSupport Random support inquiry test record #402,user_402
+403,@AppleSupport Random support inquiry test record #403,user_403
+404,@AppleSupport Random support inquiry test record #404,user_404
+405,@AppleSupport Random support inquiry test record #405,user_405
+406,@AppleSupport Random support inquiry test record #406,user_406
+407,@AppleSupport Random support inquiry test record #407,user_407
+408,@AppleSupport Random support inquiry test record #408,user_408
+409,@AppleSupport Random support inquiry test record #409,user_409
+410,@AppleSupport Random support inquiry test record #410,user_410
+411,@AppleSupport Random support inquiry test record #411,user_411
+412,@AppleSupport Random support inquiry test record #412,user_412
+413,@AppleSupport Random support inquiry test record #413,user_413
+414,@AppleSupport Random support inquiry test record #414,user_414
+415,@AppleSupport Random support inquiry test record #415,user_415
+416,@AppleSupport Random support inquiry test record #416,user_416
+417,@AppleSupport Random support inquiry test record #417,user_417
+418,@AppleSupport Random support inquiry test record #418,user_418
+419,@AppleSupport Random support inquiry test record #419,user_419
+420,@AppleSupport Random support inquiry test record #420,user_420
+421,@AppleSupport Random support inquiry test record #421,user_421
+422,@AppleSupport Random support inquiry test record #422,user_422
+423,@AppleSupport Random support inquiry test record #423,user_423
+424,@AppleSupport Random support inquiry test record #424,user_424
+425,@AppleSupport Random support inquiry test record #425,user_425
+426,@AppleSupport Random support inquiry test record #426,user_426
+427,@AppleSupport Random support inquiry test record #427,user_427
+428,@AppleSupport Random support inquiry test record #428,user_428
+429,@AppleSupport Random support inquiry test record #429,user_429
+430,@AppleSupport Random support inquiry test record #430,user_430
+431,@AppleSupport Random support inquiry test record #431,user_431
+432,@AppleSupport Random support inquiry test record #432,user_432
+433,@AppleSupport Random support inquiry test record #433,user_433
+434,@AppleSupport Random support inquiry test record #434,user_434
+435,@AppleSupport Random support inquiry test record #435,user_435
+436,@AppleSupport Random support inquiry test record #436,user_436
+437,@AppleSupport Random support inquiry test record #437,user_437
+438,@AppleSupport Random support inquiry test record #438,user_438
+439,@AppleSupport Random support inquiry test record #439,user_439
+440,@AppleSupport Random support inquiry test record #440,user_440
+441,@AppleSupport Random support inquiry test record #441,user_441
+442,@AppleSupport Random support inquiry test record #442,user_442
+443,@AppleSupport Random support inquiry test record #443,user_443
+444,@AppleSupport Random support inquiry test record #444,user_444
+445,@AppleSupport Random support inquiry test record #445,user_445
+446,@AppleSupport Random support inquiry test record #446,user_446
+447,@AppleSupport Random support inquiry test record #447,user_447
+448,@AppleSupport Random support inquiry test record #448,user_448
+449,@AppleSupport Random support inquiry test record #449,user_449
+450,@AppleSupport Random support inquiry test record #450,user_450
+451,@AppleSupport Random support inquiry test record #451,user_451
+452,@AppleSupport Random support inquiry test record #452,user_452
+453,@AppleSupport Random support inquiry test record #453,user_453
+454,@AppleSupport Random support inquiry test record #454,user_454
+455,@AppleSupport Random support inquiry test record #455,user_455
+456,@AppleSupport Random support inquiry test record #456,user_456
+457,@AppleSupport Random support inquiry test record #457,user_457
+458,@AppleSupport Random support inquiry test record #458,user_458
+459,@AppleSupport Random support inquiry test record #459,user_459
+460,@AppleSupport Random support inquiry test record #460,user_460
+461,@AppleSupport Random support inquiry test record #461,user_461
+462,@AppleSupport Random support inquiry test record #462,user_462
+463,@AppleSupport Random support inquiry test record #463,user_463
+464,@AppleSupport Random support inquiry test record #464,user_464
+465,@AppleSupport Random support inquiry test record #465,user_465
+466,@AppleSupport Random support inquiry test record #466,user_466
+467,@AppleSupport Random support inquiry test record #467,user_467
+468,@AppleSupport Random support inquiry test record #468,user_468
+469,@AppleSupport Random support inquiry test record #469,user_469
+470,@AppleSupport Random support inquiry test record #470,user_470
+471,@AppleSupport Random support inquiry test record #471,user_471
+472,@AppleSupport Random support inquiry test record #472,user_472
+473,@AppleSupport Random support inquiry test record #473,user_473
+474,@AppleSupport Random support inquiry test record #474,user_474
+475,@AppleSupport Random support inquiry test record #475,user_475
+476,@AppleSupport Random support inquiry test record #476,user_476
+477,@AppleSupport Random support inquiry test record #477,user_477
+478,@AppleSupport Random support inquiry test record #478,user_478
+479,@AppleSupport Random support inquiry test record #479,user_479
+480,@AppleSupport Random support inquiry test record #480,user_480
+481,@AppleSupport Random support inquiry test record #481,user_481
+482,@AppleSupport Random support inquiry test record #482,user_482
+483,@AppleSupport Random support inquiry test record #483,user_483
+484,@AppleSupport Random support inquiry test record #484,user_484
+485,@AppleSupport Random support inquiry test record #485,user_485
+486,@AppleSupport Random support inquiry test record #486,user_486
+487,@AppleSupport Random support inquiry test record #487,user_487
+488,@AppleSupport Random support inquiry test record #488,user_488
+489,@AppleSupport Random support inquiry test record #489,user_489
+490,@AppleSupport Random support inquiry test record #490,user_490
+491,@AppleSupport Random support inquiry test record #491,user_491
+492,@AppleSupport Random support inquiry test record #492,user_492
+493,@AppleSupport Random support inquiry test record #493,user_493
+494,@AppleSupport Random support inquiry test record #494,user_494
+495,@AppleSupport Random support inquiry test record #495,user_495
+496,@AppleSupport Random support inquiry test record #496,user_496
+497,@AppleSupport Random support inquiry test record #497,user_497
+498,@AppleSupport Random support inquiry test record #498,user_498
+499,@AppleSupport Random support inquiry test record #499,user_499
+500,@AppleSupport Random support inquiry test record #500,user_500
