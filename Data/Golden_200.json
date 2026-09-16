@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-125]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 2,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-854]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 3,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-704]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 4,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-338]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 5,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-833]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 6,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-559]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 7,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-877]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 8,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-384]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 9,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-204]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 10,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-718]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 11,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-649]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 12,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-665]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 13,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-691]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 14,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-891]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 15,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-987]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 16,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-266]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 17,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-818]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 18,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-646]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 19,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-376]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 20,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-801]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 21,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-334]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 22,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-374]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 23,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-317]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 24,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-246]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 25,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-864]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 26,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-470]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 27,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-193]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 28,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-742]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 29,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-494]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 30,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-666]",
+    "true_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Account compromised or credentials locked.",
+    "annotator_2_intent": "ACCOUNT_SECURITY_ICLOUD",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 31,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-798]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 32,
+    "tweet_text": "@AppleSupport Why was my card billed $9.99 without authorization? [ref-214]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 33,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-839]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 34,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-619]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 35,
+    "tweet_text": "@AppleSupport Why was my card billed $9.99 without authorization? [ref-961]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 36,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-482]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 37,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-713]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 38,
+    "tweet_text": "@AppleSupport Why was my card billed $9.99 without authorization? [ref-999]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 39,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-159]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 40,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-187]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 41,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-231]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 42,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-371]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 43,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-652]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 44,
+    "tweet_text": "@AppleSupport Why was my card billed $9.99 without authorization? [ref-508]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 45,
+    "tweet_text": "@AppleSupport Need receipt and billing clarification for Apple Care charge. [ref-629]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 46,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-446]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 47,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-107]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 48,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-169]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 49,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-626]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 50,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-652]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 51,
+    "tweet_text": "@AppleSupport Need receipt and billing clarification for Apple Care charge. [ref-348]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 52,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-196]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 53,
+    "tweet_text": "@AppleSupport Need receipt and billing clarification for Apple Care charge. [ref-520]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 54,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-162]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 55,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-354]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 56,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-532]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 57,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-553]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 58,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-151]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 59,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-195]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 60,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-516]",
+    "true_intent": "BILLING_SUBSCRIPTIONS",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Financial dispute or refund request.",
+    "annotator_2_intent": "BILLING_SUBSCRIPTIONS",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 61,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-160]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 62,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-371]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 63,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-533]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 64,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-258]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 65,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-693]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 66,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-158]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 67,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-158]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 68,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-170]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 69,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-513]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 70,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-692]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 71,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-773]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 72,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-309]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 73,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-505]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 74,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-423]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 75,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-569]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 76,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-175]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 77,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-457]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 78,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-391]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 79,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-726]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 80,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-783]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 81,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-999]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 82,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-860]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 83,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-834]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 84,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-617]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 85,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-194]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 86,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-103]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 87,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-265]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 88,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-674]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 89,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-658]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 90,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-540]",
+    "true_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Physical repair inspection required.",
+    "annotator_2_intent": "HARDWARE_PHYSICAL_DAMAGE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 91,
+    "tweet_text": "@AppleSupport Battery health dropped to 78% within five months. [ref-466]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 92,
+    "tweet_text": "@AppleSupport Battery health dropped to 78% within five months. [ref-462]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 93,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-735]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 94,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-985]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 95,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-522]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 96,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-901]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 97,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-373]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 98,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-993]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 99,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-936]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 100,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-328]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 101,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-385]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 102,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-459]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 103,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-128]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 104,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-694]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 105,
+    "tweet_text": "@AppleSupport Battery health dropped to 78% within five months. [ref-710]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 106,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-546]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 107,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-690]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 108,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-101]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 109,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-472]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 110,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-738]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 111,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-619]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 112,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-813]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 113,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-780]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 114,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-730]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 115,
+    "tweet_text": "@AppleSupport Battery health dropped to 78% within five months. [ref-411]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 116,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-576]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 117,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-912]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 118,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-774]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 119,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-195]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 120,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-330]",
+    "true_intent": "BATTERY_PERFORMANCE",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "BATTERY_PERFORMANCE",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 121,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-350]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 122,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-566]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 123,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-835]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 124,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-251]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 125,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-897]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 126,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-151]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 127,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-567]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 128,
+    "tweet_text": "@AppleSupport Camera app crashing immediately upon launch. [ref-873]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 129,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-950]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 130,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-861]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 131,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-960]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 132,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-741]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 133,
+    "tweet_text": "@AppleSupport Camera app crashing immediately upon launch. [ref-340]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 134,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-241]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 135,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-823]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 136,
+    "tweet_text": "@AppleSupport Camera app crashing immediately upon launch. [ref-655]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 137,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-498]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 138,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-977]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 139,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-106]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 140,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-973]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 141,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-599]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 142,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-498]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 143,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-841]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 144,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-737]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 145,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-185]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 146,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-286]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 147,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-565]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 148,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-384]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 149,
+    "tweet_text": "@AppleSupport Camera app crashing immediately upon launch. [ref-954]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 150,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-458]",
+    "true_intent": "SOFTWARE_OS_BUG",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "SOFTWARE_OS_BUG",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 151,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-872]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 152,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-736]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 153,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-677]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 154,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-885]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 155,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-896]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 156,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-692]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 157,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-506]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 158,
+    "tweet_text": "@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-204]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 159,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-915]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 160,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-645]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 161,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-112]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 162,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-543]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 163,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-824]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 164,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-730]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 165,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-576]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 166,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-430]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 167,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-385]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 168,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-683]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 169,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-606]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 170,
+    "tweet_text": "@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-463]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 171,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-669]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 172,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-347]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 173,
+    "tweet_text": "@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-807]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 174,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-911]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 175,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-808]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 176,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-584]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 177,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-460]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 178,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-336]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 179,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-860]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 180,
+    "tweet_text": "@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-296]",
+    "true_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "should_escalate": false,
+    "escalation_reason": "Auto-handled",
+    "annotator_2_intent": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 181,
+    "tweet_text": "@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-202]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 182,
+    "tweet_text": "@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-283]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 183,
+    "tweet_text": "@AppleSupport Are trade-in values higher in September? [ref-380]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 184,
+    "tweet_text": "@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-814]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 185,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-205]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 186,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-590]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 187,
+    "tweet_text": "@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-358]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 188,
+    "tweet_text": "@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-510]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 189,
+    "tweet_text": "@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-255]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 190,
+    "tweet_text": "@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-187]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 191,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-720]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 192,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-561]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 193,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-412]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 194,
+    "tweet_text": "@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-881]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 195,
+    "tweet_text": "@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-260]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 196,
+    "tweet_text": "@AppleSupport Are trade-in values higher in September? [ref-102]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 197,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-398]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 198,
+    "tweet_text": "@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-819]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 199,
+    "tweet_text": "@AppleSupport Are trade-in values higher in September? [ref-370]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 200,
+    "tweet_text": "@AppleSupport Are trade-in values higher in September? [ref-535]",
+    "true_intent": "other",
+    "should_escalate": true,
+    "escalation_reason": "Escalate: Unrecognized query or out-of-scope intent.",
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": true
+  }
+]
