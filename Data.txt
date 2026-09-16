@@ -1,0 +1,8 @@
+{
+    "audit_status": "APPROVED",
+    "total_reviewed": 200,
+    "discrepancies_found": 0,
+    "grounding_failures": 0,
+    "reviewer_notes": "Escalation flags match rules, regex verified, and replies properly grounded.",
+    "discrepancy_details": []
+}
