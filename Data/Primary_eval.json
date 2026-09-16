@@ -1,0 +1,1602 @@
+[
+  {
+    "tweet_id": 1,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-125]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 2,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-854]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 3,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-704]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 4,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-338]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 5,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-833]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 6,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-559]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 7,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-877]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 8,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-384]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 9,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-204]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 10,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-718]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 11,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-649]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 12,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-665]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 13,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-691]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 14,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-891]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 15,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-987]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 16,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-266]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 17,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-818]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 18,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-646]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 19,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-376]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 20,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-801]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 21,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-334]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 22,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-374]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 23,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-317]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 24,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-246]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 25,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-864]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 26,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-470]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 27,
+    "tweet_text": "@AppleSupport Someone hacked my iCloud and changed the recovery email. [ref-193]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 28,
+    "tweet_text": "@AppleSupport Need help recovering my iCloud account credentials. [ref-742]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 29,
+    "tweet_text": "@AppleSupport Locked out of my Apple ID after suspicious login alert. [ref-494]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 30,
+    "tweet_text": "@AppleSupport Two-factor verification codes not sending to my trusted number. [ref-666]",
+    "intent_prediction": "ACCOUNT_SECURITY_ICLOUD",
+    "escalation_decision": "Escalate: Account compromised or credentials locked.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 31,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-798]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 32,
+    "tweet_text": "@AppleSupport Why was my card billed $9.99 without authorization? [ref-214]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 33,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-839]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 34,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-619]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 35,
+    "tweet_text": "@AppleSupport Why was my card billed $9.99 without authorization? [ref-961]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 36,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-482]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 37,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-713]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 38,
+    "tweet_text": "@AppleSupport Why was my card billed $9.99 without authorization? [ref-999]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 39,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-159]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 40,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-187]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 41,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-231]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 42,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-371]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 43,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-652]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 44,
+    "tweet_text": "@AppleSupport Why was my card billed $9.99 without authorization? [ref-508]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 45,
+    "tweet_text": "@AppleSupport Need receipt and billing clarification for Apple Care charge. [ref-629]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 46,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-446]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 47,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-107]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 48,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-169]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 49,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-626]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 50,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-652]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 51,
+    "tweet_text": "@AppleSupport Need receipt and billing clarification for Apple Care charge. [ref-348]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 52,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-196]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 53,
+    "tweet_text": "@AppleSupport Need receipt and billing clarification for Apple Care charge. [ref-520]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 54,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-162]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 55,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-354]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 56,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-532]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 57,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-553]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 58,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-151]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 59,
+    "tweet_text": "@AppleSupport Charged twice for Apple Music subscription this month. [ref-195]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 60,
+    "tweet_text": "@AppleSupport Requesting a refund for an accidental App Store in-app purchase. [ref-516]",
+    "intent_prediction": "BILLING_SUBSCRIPTIONS",
+    "escalation_decision": "Escalate: Financial dispute or refund request.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 61,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-160]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 62,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-371]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 63,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-533]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 64,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-258]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 65,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-693]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 66,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-158]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 67,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-158]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 68,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-170]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 69,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-513]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 70,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-692]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 71,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-773]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 72,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-309]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 73,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-505]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 74,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-423]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 75,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-569]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 76,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-175]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 77,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-457]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 78,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-391]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 79,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-726]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 80,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-783]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 81,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-999]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 82,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-860]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 83,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-834]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 84,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-617]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 85,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-194]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 86,
+    "tweet_text": "@AppleSupport iPhone screen shattered after dropping it on concrete. [ref-103]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 87,
+    "tweet_text": "@AppleSupport Lightning port loose and pins seem bent inside. [ref-265]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 88,
+    "tweet_text": "@AppleSupport Device liquid damaged after falling into water. [ref-674]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 89,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-658]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 90,
+    "tweet_text": "@AppleSupport Back glass cracked and camera lens is scratched. [ref-540]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 91,
+    "tweet_text": "@AppleSupport Battery health dropped to 78% within five months. [ref-466]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 92,
+    "tweet_text": "@AppleSupport Battery health dropped to 78% within five months. [ref-462]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 93,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-735]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 94,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-985]",
+    "intent_prediction": "BATTERY_PERFORMANCE",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this battery performance issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 95,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-522]",
+    "intent_prediction": "BATTERY_PERFORMANCE",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this battery performance issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 96,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-901]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 97,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-373]",
+    "intent_prediction": "BATTERY_PERFORMANCE",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this battery performance issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 98,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-993]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 99,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-936]",
+    "intent_prediction": "BATTERY_PERFORMANCE",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this battery performance issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 100,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-328]",
+    "intent_prediction": "BATTERY_PERFORMANCE",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this battery performance issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 101,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-385]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 102,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-459]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 103,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-128]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 104,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-694]",
+    "intent_prediction": "BATTERY_PERFORMANCE",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this battery performance issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 105,
+    "tweet_text": "@AppleSupport Battery health dropped to 78% within five months. [ref-710]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 106,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-546]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 107,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-690]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 108,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-101]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 109,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-472]",
+    "intent_prediction": "BATTERY_PERFORMANCE",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this battery performance issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 110,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-738]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 111,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-619]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 112,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-813]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 113,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-780]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 114,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-730]",
+    "intent_prediction": "BATTERY_PERFORMANCE",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this battery performance issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 115,
+    "tweet_text": "@AppleSupport Battery health dropped to 78% within five months. [ref-411]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 116,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-576]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 117,
+    "tweet_text": "@AppleSupport Sudden battery percentage drops from 40% to zero. [ref-912]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 118,
+    "tweet_text": "@AppleSupport Phone battery draining 20% per hour on standby. [ref-774]",
+    "intent_prediction": "BATTERY_PERFORMANCE",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this battery performance issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 119,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-195]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 120,
+    "tweet_text": "@AppleSupport iPhone gets unusually warm while charging on standard brick. [ref-330]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 121,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-350]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 122,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-566]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 123,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-835]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 124,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-251]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 125,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-897]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 126,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-151]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 127,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-567]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 128,
+    "tweet_text": "@AppleSupport Camera app crashing immediately upon launch. [ref-873]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 129,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-950]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 130,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-861]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 131,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-960]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 132,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-741]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 133,
+    "tweet_text": "@AppleSupport Camera app crashing immediately upon launch. [ref-340]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 134,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-241]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 135,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-823]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 136,
+    "tweet_text": "@AppleSupport Camera app crashing immediately upon launch. [ref-655]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 137,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-498]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 138,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-977]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 139,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-106]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 140,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-973]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 141,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-599]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 142,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-498]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 143,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-841]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 144,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-737]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 145,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-185]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 146,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-286]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 147,
+    "tweet_text": "@AppleSupport Keyboard lag and stuttering across apps after system update. [ref-565]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 148,
+    "tweet_text": "@AppleSupport Control Center gestures unresponsive after waking device. [ref-384]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 149,
+    "tweet_text": "@AppleSupport Camera app crashing immediately upon launch. [ref-954]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 150,
+    "tweet_text": "@AppleSupport iOS update froze my screen on the Apple logo. [ref-458]",
+    "intent_prediction": "SOFTWARE_OS_BUG",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this software os bug issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 151,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-872]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 152,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-736]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 153,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-677]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 154,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-885]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 155,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-896]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 156,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-692]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 157,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-506]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 158,
+    "tweet_text": "@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-204]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 159,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-915]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 160,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-645]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 161,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-112]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 162,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-543]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 163,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-824]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 164,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-730]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 165,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-576]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 166,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-430]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 167,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-385]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 168,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-683]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 169,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-606]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 170,
+    "tweet_text": "@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-463]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 171,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-669]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 172,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-347]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 173,
+    "tweet_text": "@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-807]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 174,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-911]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 175,
+    "tweet_text": "@AppleSupport Personal Hotspot fails to assign IP address to connected iPad. [ref-808]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 176,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-584]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 177,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-460]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 178,
+    "tweet_text": "@AppleSupport Bluetooth toggle grayed out in Settings app. [ref-336]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 179,
+    "tweet_text": "@AppleSupport Wi-Fi keeps disconnecting every few minutes on 5GHz band. [ref-860]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 180,
+    "tweet_text": "@AppleSupport AirPods won't pair with MacBook Bluetooth. [ref-296]",
+    "intent_prediction": "CONNECTIVITY_BLUETOOTH_WIFI",
+    "escalation_decision": "Auto-handled",
+    "escalation_flag": false,
+    "generated_reply": "We'd love to help resolve this connectivity bluetooth wifi issue. Try restarting, or DM us if it persists."
+  },
+  {
+    "tweet_id": 181,
+    "tweet_text": "@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-202]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 182,
+    "tweet_text": "@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-283]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 183,
+    "tweet_text": "@AppleSupport Are trade-in values higher in September? [ref-380]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 184,
+    "tweet_text": "@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-814]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 185,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-205]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 186,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-590]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 187,
+    "tweet_text": "@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-358]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 188,
+    "tweet_text": "@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-510]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 189,
+    "tweet_text": "@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-255]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 190,
+    "tweet_text": "@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-187]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 191,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-720]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 192,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-561]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 193,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-412]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 194,
+    "tweet_text": "@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-881]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 195,
+    "tweet_text": "@AppleSupport What time does the Regent Street Apple Store close tonight? [ref-260]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 196,
+    "tweet_text": "@AppleSupport Are trade-in values higher in September? [ref-102]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 197,
+    "tweet_text": "@AppleSupport Where can I find employment opportunities at corporate HQ? [ref-398]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 198,
+    "tweet_text": "@AppleSupport Nice keynote presentation yesterday, loved the wallpaper! [ref-819]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 199,
+    "tweet_text": "@AppleSupport Are trade-in values higher in September? [ref-370]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  },
+  {
+    "tweet_id": 200,
+    "tweet_text": "@AppleSupport Are trade-in values higher in September? [ref-535]",
+    "intent_prediction": "HARDWARE_PHYSICAL_DAMAGE",
+    "escalation_decision": "Escalate: Physical repair inspection required.",
+    "escalation_flag": true,
+    "generated_reply": "We take this issue seriously. Please send us a DM with your details so our team can securely assist: apple.co/DM"
+  }
+]
